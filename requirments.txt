@@ -1,0 +1,4 @@
+PySide2>=5.15.2
+pywin32>=301
+requests>=2.26.0
+scapy>=2.4.5
