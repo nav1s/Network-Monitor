@@ -8,10 +8,11 @@ any of the devices.
 Install
 ---------------
 
-```
-git clone https://github.com/Flodur871/Network-Montior
+```shell
+git clone --detph 1 https://github.com/Flodur871/Network-Montior
 cd Network-Monitor/
-python main.py
+pip install -r requirments.txt
+python Network-Monitor/main.py
 ```
 
 Screenshots
