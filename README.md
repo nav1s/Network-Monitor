@@ -8,10 +8,40 @@ any of the devices.
 Install
 ---------------
 
-```shell
-git clone --detph 1 https://github.com/Flodur871/Network-Montior
-cd monitor/
-pip install -r requirments.txt
+#### Windows
+
+1. Clone the Project
+
+  - Via HTTPS: `git clone --depth 1 https://github.com/Flodur871/Network-Montior.git`
+  - via SSH:  `git clone --depth 1 git@github.com:Flodur871/Network-Montior.git`
+
+2. Navigate into the project's folder
+
+```
+cd Network-Monitor/
+```
+
+3. Create Environment
+
+```
+python3 -m venv env
+````
+
+4. Activate the virtual environment
+
+```
+env\Scripts\activate.bat
+```
+
+5. Install dependencies
+
+```
+pip install -r requirements.txt
+```
+
+6.  Run the app
+
+```
 python monitor/main.py
 ```
 
