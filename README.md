@@ -18,7 +18,7 @@ Install
 2. Navigate into the project's folder
 
 ```
-cd Network-Monitor/
+cd Network-Monitor
 ```
 
 3. Create Environment
