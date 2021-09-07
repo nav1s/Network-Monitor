@@ -42,7 +42,7 @@ pip install -r requirements.txt
 6.  Run the app
 
 ```
-python monitor/main.py
+python monitor\main.py
 ```
 
 Screenshots
