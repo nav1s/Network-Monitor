@@ -10,14 +10,14 @@ Install
 
 ```shell
 git clone --detph 1 https://github.com/Flodur871/Network-Montior
-cd Network-Monitor/
+cd monitor/
 pip install -r requirments.txt
-python Network-Monitor/main.py
+python monitor/main.py
 ```
 
 Screenshots
 ---------------
 
-![](Assets/1.png)
-![](Assets/2.png)
-![](Assets/3.png)
+![](assets/1.png)
+![](assets/2.png)
+![](assets/3.png)
